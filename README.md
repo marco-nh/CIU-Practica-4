@@ -10,6 +10,8 @@
 ## Trabajo realizado
 Las dos partes que habia que realizar, la nave y la camara.
 La nave esta hecha con un movimiento en XY circular y Z constante si se pulsan las teclas.
+**La nave se pone donde se coloca el raton en la pantalla, hacer clic izquierdo para poner la nave**
+
 
 ![image](https://user-images.githubusercontent.com/47418876/156946722-0ae2ae84-7cff-4602-9912-2026954962c7.png)
 
